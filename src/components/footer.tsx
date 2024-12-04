@@ -20,7 +20,7 @@ const Footer = () => {
       >
         {isDark ? `Light` : `Dark`}
       </button>
-      tbrgoa &copy; {new Date().getFullYear()}. All rights reserved.
+      trbgoa &copy; {new Date().getFullYear()}. All rights reserved.
       <br />
       
        
