@@ -29,5 +29,14 @@
     "@types/react-dom": "^18.3.0",
     "cross-env": "^7.0.3",
     "typescript": "^5.5.3"
+  },
+  "overrides": {
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "schema-utils": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=18 <21"
   }
 }
+
