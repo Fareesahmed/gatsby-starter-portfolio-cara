@@ -10,7 +10,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "^5.2.0",
+    "@lekoarts/gatsby-theme-cara": "^5.1.0",
     "dotenv": "^16.4.5",
     "gatsby": "^5.15.0",
     "gatsby-adapter-netlify": "^1.2.1",
